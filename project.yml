@@ -1,0 +1,18 @@
+type: conventions
+slug: app-port-convention
+display_name:
+  en: Development Port Convention
+summary:
+  en: A local development port convention for individuals, small companies, and big organizations.
+languages:
+  - en
+default_language: en
+audience:
+  - developers
+entry_point: README.md
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - maintainer
+    github: Tertiumnon
